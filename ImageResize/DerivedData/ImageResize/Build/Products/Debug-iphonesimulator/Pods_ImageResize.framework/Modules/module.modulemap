@@ -1,6 +1,0 @@
-framework module Pods_ImageResize {
-  umbrella header "Pods-ImageResize-umbrella.h"
-
-  export *
-  module * { export * }
-}
