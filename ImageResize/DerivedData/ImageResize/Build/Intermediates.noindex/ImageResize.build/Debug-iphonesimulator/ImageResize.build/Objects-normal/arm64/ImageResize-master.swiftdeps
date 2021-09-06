@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "1d28a1fb780da1d2daa33a938ee1d841"
+build_time: [1630938525, 575435000]
+inputs:
+  "/Users/sobharajmohapatra/Desktop/Demo/ImageResize/ImageResize/Utilities/Helper/AsyncImage.swift": [1630203333, 853147022]
+  "/Users/sobharajmohapatra/Desktop/Demo/ImageResize/ImageResize/ViewController.swift": [1630938525, 485231364]
+  "/Users/sobharajmohapatra/Desktop/Demo/ImageResize/ImageResize/AppDelegate.swift": [1630938525, 458061565]
+  "/Users/sobharajmohapatra/Desktop/Demo/ImageResize/ImageResize/SceneDelegate.swift": [1630938525, 448382928]
+  "/Users/sobharajmohapatra/Desktop/Demo/ImageResize/ImageResize/Utilities/Helper/ImageDownloadHelper.swift": [1598407683, 0]

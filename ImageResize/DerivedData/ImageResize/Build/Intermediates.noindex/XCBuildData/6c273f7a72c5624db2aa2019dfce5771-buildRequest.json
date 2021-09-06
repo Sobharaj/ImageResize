@@ -1,0 +1,52 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "e1390bc5297713838c4edaa07e0f921d30bffad0ee3d09be98970c5602d66262"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64e",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64e"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/sobharajmohapatra/Desktop/Demo/ImageResize/DerivedData/ImageResize/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/sobharajmohapatra/Desktop/Demo/ImageResize/DerivedData/ImageResize/Build/Products",
+      "derivedDataPath" : "/Users/sobharajmohapatra/Desktop/Demo/ImageResize/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/sobharajmohapatra/Desktop/Demo/ImageResize/DerivedData/ImageResize/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/sobharajmohapatra/Desktop/Demo/ImageResize/DerivedData/ImageResize/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/sobharajmohapatra/Desktop/Demo/ImageResize/DerivedData/ImageResize/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

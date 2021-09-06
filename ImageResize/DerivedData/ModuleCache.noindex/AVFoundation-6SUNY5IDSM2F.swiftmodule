@@ -1,0 +1,140 @@
+---
+path:            '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/14.5/AVFoundation.swiftmodule/arm64-apple-ios-simulator.swiftmodule'
+dependencies:
+  - mtime:           1622233520000000000
+    path:            '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/14.5/AVFoundation.swiftmodule/arm64-apple-ios-simulator.swiftmodule'
+    size:            84720
+  - mtime:           1615880558000000000
+    path:            'usr/lib/swift/Swift.swiftmodule/arm64-apple-ios-simulator.swiftinterface'
+    size:            1522569
+    sdk_relative:    true
+  - mtime:           1610099276000000000
+    path:            'usr/include/mach-o/dyld.modulemap'
+    size:            71
+    sdk_relative:    true
+  - mtime:           1610099276000000000
+    path:            'usr/include/mach-o/compact_unwind_encoding.modulemap'
+    size:            109
+    sdk_relative:    true
+  - mtime:           1610099276000000000
+    path:            'usr/include/Darwin.apinotes'
+    size:            1133
+    sdk_relative:    true
+  - mtime:           1606733690000000000
+    path:            'usr/include/objc/ObjectiveC.apinotes'
+    size:            11147
+    sdk_relative:    true
+  - mtime:           1610099275000000000
+    path:            'System/Library/Frameworks/Security.framework/Headers/Security.apinotes'
+    size:            162
+    sdk_relative:    true
+  - mtime:           1606713447000000000
+    path:            'System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes'
+    size:            80916
+    sdk_relative:    true
+  - mtime:           1610099272000000000
+    path:            'System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes'
+    size:            1519
+    sdk_relative:    true
+  - mtime:           1606713443000000000
+    path:            'System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes'
+    size:            54819
+    sdk_relative:    true
+  - mtime:           1610099275000000000
+    path:            'System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes'
+    size:            1192
+    sdk_relative:    true
+  - mtime:           1610099274000000000
+    path:            'System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes'
+    size:            63086
+    sdk_relative:    true
+  - mtime:           1606733695000000000
+    path:            'System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes'
+    size:            64843
+    sdk_relative:    true
+  - mtime:           1610099275000000000
+    path:            'System/Library/Frameworks/UniformTypeIdentifiers.framework/Headers/UniformTypeIdentifiers.apinotes'
+    size:            1666
+    sdk_relative:    true
+  - mtime:           1610099272000000000
+    path:            'System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes'
+    size:            114
+    sdk_relative:    true
+  - mtime:           1610099274000000000
+    path:            'System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes'
+    size:            215
+    sdk_relative:    true
+  - mtime:           1610099269000000000
+    path:            'System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes'
+    size:            7428
+    sdk_relative:    true
+  - mtime:           1615884248000000000
+    path:            'System/Library/Frameworks/AVFAudio.framework/Headers/AVFAudio.apinotes'
+    size:            7469
+    sdk_relative:    true
+  - mtime:           1615884248000000000
+    path:            'System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes'
+    size:            93122
+    sdk_relative:    true
+  - mtime:           1615880558000000000
+    path:            'usr/lib/swift/Darwin.swiftmodule/arm64-apple-ios-simulator.swiftinterface'
+    size:            24400
+    sdk_relative:    true
+  - mtime:           1615880556000000000
+    path:            'System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/arm64-apple-ios-simulator.swiftinterface'
+    size:            163245
+    sdk_relative:    true
+  - mtime:           1615880558000000000
+    path:            'usr/lib/swift/ObjectiveC.swiftmodule/arm64-apple-ios-simulator.swiftinterface'
+    size:            3046
+    sdk_relative:    true
+  - mtime:           1615880558000000000
+    path:            'usr/lib/swift/Dispatch.swiftmodule/arm64-apple-ios-simulator.swiftinterface'
+    size:            50574
+    sdk_relative:    true
+  - mtime:           1615880558000000000
+    path:            'usr/lib/swift/CoreFoundation.swiftmodule/arm64-apple-ios-simulator.swiftinterface'
+    size:            670
+    sdk_relative:    true
+  - mtime:           1615880558000000000
+    path:            'usr/lib/swift/CoreGraphics.swiftmodule/arm64-apple-ios-simulator.swiftinterface'
+    size:            44221
+    sdk_relative:    true
+  - mtime:           1615880558000000000
+    path:            'usr/lib/swift/Foundation.swiftmodule/arm64-apple-ios-simulator.swiftinterface'
+    size:            355074
+    sdk_relative:    true
+  - mtime:           1615880558000000000
+    path:            'usr/lib/swift/CoreMIDI.swiftmodule/arm64-apple-ios-simulator.swiftinterface'
+    size:            13101
+    sdk_relative:    true
+  - mtime:           1615880558000000000
+    path:            'usr/lib/swift/CoreAudio.swiftmodule/arm64-apple-ios-simulator.swiftinterface'
+    size:            8821
+    sdk_relative:    true
+  - mtime:           1615880558000000000
+    path:            'usr/lib/swift/Metal.swiftmodule/arm64-apple-ios-simulator.swiftinterface'
+    size:            14594
+    sdk_relative:    true
+  - mtime:           1615880558000000000
+    path:            'usr/lib/swift/CoreMedia.swiftmodule/arm64-apple-ios-simulator.swiftinterface'
+    size:            106346
+    sdk_relative:    true
+  - mtime:           1615880558000000000
+    path:            'usr/lib/swift/simd.swiftmodule/arm64-apple-ios-simulator.swiftinterface'
+    size:            127292
+    sdk_relative:    true
+  - mtime:           1615880558000000000
+    path:            'usr/lib/swift/QuartzCore.swiftmodule/arm64-apple-ios-simulator.swiftinterface'
+    size:            979
+    sdk_relative:    true
+  - mtime:           1615880558000000000
+    path:            'usr/lib/swift/UniformTypeIdentifiers.swiftmodule/arm64-apple-ios-simulator.swiftinterface'
+    size:            14664
+    sdk_relative:    true
+  - mtime:           1615880558000000000
+    path:            'usr/lib/swift/AVFoundation.swiftmodule/arm64-apple-ios-simulator.swiftinterface'
+    size:            9874
+    sdk_relative:    true
+version:         1
+...

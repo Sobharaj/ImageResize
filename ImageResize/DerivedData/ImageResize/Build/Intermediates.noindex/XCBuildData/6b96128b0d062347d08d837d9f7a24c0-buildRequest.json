@@ -1,0 +1,57 @@
+{
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "e1390bc5297713838c4edaa07e0f921d30bffad0ee3d09be98970c5602d66262"
+    }
+  ],
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator14.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/sobharajmohapatra/Desktop/Demo/ImageResize/DerivedData/ImageResize/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/sobharajmohapatra/Desktop/Demo/ImageResize/DerivedData/ImageResize/Build/Products",
+      "derivedDataPath" : "/Users/sobharajmohapatra/Desktop/Demo/ImageResize/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/sobharajmohapatra/Desktop/Demo/ImageResize/DerivedData/ImageResize/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/sobharajmohapatra/Desktop/Demo/ImageResize/DerivedData/ImageResize/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/sobharajmohapatra/Desktop/Demo/ImageResize/DerivedData/ImageResize/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad11,7",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "14.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "AF9AE6E2-D4C1-4753-8115-8B01B4B71514",
+          "TARGET_DEVICE_MODEL" : "iPad11,7",
+          "TARGET_DEVICE_OS_VERSION" : "14.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
